@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaynrikhMilies
-- 👀 I’m interested in ...
+- 👀 I’m interested in everything Angular and NestJS
 - 🌱 I’m currently learning NestJS && NextJS
 - 💞️ I’m looking to collaborate on nothing atm!
 - 📫 How to reach me --- at haynrikh.santrosyan@milies.net email
